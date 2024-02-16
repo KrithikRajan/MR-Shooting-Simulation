@@ -59,7 +59,7 @@ We welcome contributions from military professionals, software developers, and V
 #### Authors:
 
 - [KrithikRaghav V](https://github.com/KrithikRajan)
-- [Ratnesh H S](https://github.com/eihsen)
+- [Ratnesh H S](https://github.com/hsratneshsci)
 - [Bramarambika P](https://github.com/Brama456)
 - [Harini V](https://github.com/HariniV2907)
 - [Mohamed Suhail Y](https://github.com/mohamed-suhail-y) 
